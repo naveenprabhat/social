@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const passport = require("passport");
 
-const CLIENT_URL = "https://test-api.skalebot.com";
+const CLIENT_URL = "https://test-naveen.onrender.com";
 
 router.get("/login/success", (req, res) => {
   if (req.user) {
