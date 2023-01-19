@@ -8,8 +8,8 @@ const FacebookStrategy = require('passport-facebook').Strategy;
 const GOOGLE_CLIENT_ID = "1091340929678-0k8n425i7m6ift3nisjjjkrvggmga5qu.apps.googleusercontent.com"
 const GOOGLE_CLIENT_SECRET = "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"
 
-const FACEBOOK_APP_ID = "831047228185708"
-const FACEBOOK_APP_SECRET = "9d770e388a413c02e351f3cee549ad594c6ac2a3"
+const FACEBOOK_APP_ID = "1252616441984155"
+const FACEBOOK_APP_SECRET = "0dd01dddeee21481c356a2e52d76bea8"
 
 const GITHUB_CLIENT_ID = "ecec331d1f7726b46646"
 const GITHUB_CLIENT_SECRET = "9d770e388a413c02e351f3cee549ad594c6ac2a3"
